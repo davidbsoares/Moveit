@@ -12,7 +12,7 @@
 
 ## 🖥 Preview 
   
-  ![](/public/index.png)
+  ![](/public/Index.png)
   
 
 
